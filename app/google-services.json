@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "463873083546",
+    "firebase_url": "https://internhelper-6f5c9.firebaseio.com",
+    "project_id": "internhelper-6f5c9",
+    "storage_bucket": "internhelper-6f5c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463873083546:android:a5f7223f4930b278",
+        "android_client_info": {
+          "package_name": "com.example.harsh.internhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463873083546-su3ppktiik2ea614d6vru10d3qt90h04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB624puLAnl97p3hY1btHphep-dyZgIP14"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
